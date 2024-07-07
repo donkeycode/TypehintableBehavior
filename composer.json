@@ -15,7 +15,7 @@
 		"class": "TypehintableBehavior"
 	},
     "require": {
-        "propel/propel": "2.0.*@dev"
+        "propel/propel": "*"
     },
     "autoload": {
         "classmap": ["src/"]
